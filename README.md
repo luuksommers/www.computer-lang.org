@@ -5,7 +5,7 @@ This is the main entry point to the defacto standard of computer language (in du
 # How can I deploy this on my own Saas
 
 1. Install the blockchain
-2. Connect blockchain to hybrid cloud
+2. Connect quantum blockchain to hybrid cloud
 3. Enable Machine Learning
 4. Post message to the ESB
 5. You're done
